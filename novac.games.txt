@@ -76,7 +76,7 @@
 			"CCSGameRules::Think_Patch"
 			{
 				"windows" "E9 E1 02 00 00 90"
-				"linux" "90 90 90 90 90 90"
+				"linux" "0F 85"
 			}
 		}
 
